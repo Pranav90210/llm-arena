@@ -1,0 +1,158 @@
+{
+  "factual": [
+    {
+      "id": "f1",
+      "question": "What is the difference between supervised and unsupervised learning?",
+      "category": "factual"
+    },
+    {
+      "id": "f2",
+      "question": "What does the P vs NP problem ask, and why does it matter?",
+      "category": "factual"
+    },
+    {
+      "id": "f3",
+      "question": "Explain what gradient descent is and how it works.",
+      "category": "factual"
+    },
+    {
+      "id": "f4",
+      "question": "What is the difference between precision and recall?",
+      "category": "factual"
+    },
+    {
+      "id": "f5",
+      "question": "What is the transformer architecture and what problem did it solve?",
+      "category": "factual"
+    },
+    {
+      "id": "f6",
+      "question": "What is the Central Limit Theorem and why is it important in statistics?",
+      "category": "factual"
+    },
+    {
+      "id": "f7",
+      "question": "What is overfitting, and what are three ways to prevent it?",
+      "category": "factual"
+    },
+    {
+      "id": "f8",
+      "question": "What is the difference between bagging and boosting in ensemble methods?",
+      "category": "factual"
+    },
+    {
+      "id": "f9",
+      "question": "What is a confusion matrix and what four values does it contain?",
+      "category": "factual"
+    },
+    {
+      "id": "f10",
+      "question": "What is the vanishing gradient problem in deep learning?",
+      "category": "factual"
+    }
+  ],
+  "reasoning": [
+    {
+      "id": "r1",
+      "question": "You have 8 balls. One is heavier than the rest. Using a balance scale, what is the minimum number of weighings needed to find the heavy ball, and how?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r2",
+      "question": "A bat and a ball cost $1.10 together. The bat costs $1 more than the ball. How much does the ball cost? Explain your reasoning step by step.",
+      "category": "reasoning"
+    },
+    {
+      "id": "r3",
+      "question": "If you have a 3-litre jug and a 5-litre jug, how do you measure exactly 4 litres of water?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r4",
+      "question": "A dataset has 90% negative samples and 10% positive samples. A model that always predicts negative gets 90% accuracy. Why is this misleading and what metric should you use instead?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r5",
+      "question": "You are training a model and your training accuracy is 99% but validation accuracy is 60%. What is likely happening and what are your next three steps?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r6",
+      "question": "There are three boxes: one has two black balls, one has two white balls, and one has one of each. All boxes are mislabeled. You draw one ball from one box — it's black. Which box did you draw from, and how do you identify all three boxes?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r7",
+      "question": "You have two models: Model A has 95% accuracy on the test set. Model B has 89% accuracy. Should you always pick Model A? Justify your answer.",
+      "category": "reasoning"
+    },
+    {
+      "id": "r8",
+      "question": "If you double the size of your neural network but training loss keeps increasing, what are the possible causes?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r9",
+      "question": "100 people take a test for a rare disease that affects 1 in 1000 people. The test is 99% accurate. If someone tests positive, what is the probability they actually have the disease?",
+      "category": "reasoning"
+    },
+    {
+      "id": "r10",
+      "question": "You are given a sorted array of 1 million integers and need to find if a specific number exists. What algorithm do you use and why?",
+      "category": "reasoning"
+    }
+  ],
+  "creative": [
+    {
+      "id": "c1",
+      "question": "Explain machine learning to a 10-year-old using only a pizza analogy.",
+      "category": "creative"
+    },
+    {
+      "id": "c2",
+      "question": "Write a short story (5-6 sentences) where the protagonist is a gradient descent algorithm trying to find the lowest point in a valley.",
+      "category": "creative"
+    },
+    {
+      "id": "c3",
+      "question": "If data was a city, describe what different parts of the city would represent (raw data, cleaned data, features, model, predictions).",
+      "category": "creative"
+    },
+    {
+      "id": "c4",
+      "question": "Write a job rejection letter from a neural network to a linear regression model applying for a computer vision role.",
+      "category": "creative"
+    },
+    {
+      "id": "c5",
+      "question": "Come up with 3 unusual but plausible real-world applications of reinforcement learning that nobody is talking about yet.",
+      "category": "creative"
+    },
+    {
+      "id": "c6",
+      "question": "Describe the feeling of being an attention head in a transformer model during inference. First person, 4-5 sentences.",
+      "category": "creative"
+    },
+    {
+      "id": "c7",
+      "question": "If overfitting and underfitting were people at a party, how would they behave? Describe both characters.",
+      "category": "creative"
+    },
+    {
+      "id": "c8",
+      "question": "Write a haiku about the bias-variance tradeoff.",
+      "category": "creative"
+    },
+    {
+      "id": "c9",
+      "question": "Pitch a startup idea that uses LLMs in a domain nobody has thought of yet. Give it a name, a one-liner, and explain the core product in 3 sentences.",
+      "category": "creative"
+    },
+    {
+      "id": "c10",
+      "question": "Rewrite the three laws of robotics (Asimov) as three laws of responsible AI, keeping the same structure but making them relevant today.",
+      "category": "creative"
+    }
+  ]
+}
