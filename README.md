@@ -106,4 +106,4 @@ Known limitation: **self-preference bias** — judge models subtly favor respons
 
 ---
 
-Built by [Pranav Kumar S A](https://linkedin.com/in/YOUR_LINKEDIN)
+Built by [Pranav Kumar S A]([https://www.linkedin.com/in/pranavkumarsa/])
